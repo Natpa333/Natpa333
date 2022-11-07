@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Natalija P
 - 👀 I’m interested in computer science and machine learning.
-- 🌱 I’m currently learning at Stockholm University
+- 🌱 I’m currently studying at Stockholm University
 - 💞️ I’m looking to collaborate on formal methods
 - 📫 How to reach me napa4984@student.su.se
 
